@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\dal\\datacontexts\\groupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\datacontexts\\groupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\migrations\\20240802073838_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240802073838_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\migrations\\20240802073452_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240802073452_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\migrations\\groupcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\groupcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|c:\\users\\hesen\\onedrive\\masa\u00FCst\u00FC\\example\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE129CE1-B24E-40AF-BBE0-D12891230D19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T07:43:11.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240802073838_user.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Migrations\\20240802073838_user.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240802073838_user.cs",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Migrations\\20240802073838_user.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240802073838_user.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:38:40.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240802073452_initial.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Migrations\\20240802073452_initial.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240802073452_initial.cs",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Migrations\\20240802073452_initial.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240802073452_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:35:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Migrations\\GroupContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\GroupContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Migrations\\GroupContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\GroupContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:35:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupContext.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\DAL\\DataContexts\\GroupContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\DataContexts\\GroupContext.cs",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\DAL\\DataContexts\\GroupContext.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\DataContexts\\GroupContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:26:38.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:24:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entites\\User.cs",
+              "ToolTip": "C:\\Users\\hesen\\OneDrive\\Masa\u00FCst\u00FC\\example\\WebApplication1\\WebApplication1\\Entites\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Entites\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:42:41.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
